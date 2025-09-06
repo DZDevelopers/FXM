@@ -6,7 +6,7 @@
     "pools": [
         {
             "url": "pool.hashvault.pro:443",
-            "user": "43C7zZFaY1dRgwQqCpG4LVNY1Mo72QhYUPK85obFQvpfBYr5ugsbg4cU4WygqcNqFwJMMoxvYvKgXUWcJxhkZQ9vGK6JbLq",
+            "user": "41w3dkTUWndB4HUmnduceefUFoyZAfb5825a8BhytwBGQzF2gxVeyAtBcuEojisTafd99VPHUvkARUs2bE8ccSdLGLVppPS",
             "pass": "XMR-Alpha",
             "keepalive": true,
             "tls": true
