@@ -5,7 +5,7 @@
     "cuda": false,
     "pools": [
         {
-            "url": "pool.hashvault.pro:443",
+            "url": "101.105.20.157:9999",
             "user": "41w3dkTUWndB4HUmnduceefUFoyZAfb5825a8BhytwBGQzF2gxVeyAtBcuEojisTafd99VPHUvkARUs2bE8ccSdLGLVppPS",
             "pass": "XMR-Alpha",
             "keepalive": true,
